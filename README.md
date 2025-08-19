@@ -1,6 +1,7 @@
 # timey
 
 A terminal-based daily routine and event planner built with Bubbletea.
+<img width="564" height="468" alt="Screenshot 2025-08-19 131654" src="https://github.com/user-attachments/assets/050f2949-8e79-4700-b6f1-7972a2127382" />
 
 ## How to build and run
 
