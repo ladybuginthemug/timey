@@ -1,7 +1,8 @@
 # timey
 
-A terminal-based daily routine and event planner built with Bubbletea.
-<img width="564" height="468" alt="Screenshot 2025-08-19 131654" src="https://github.com/user-attachments/assets/050f2949-8e79-4700-b6f1-7972a2127382" />
+A terminal-based daily routine and event planner built with Bubbletea. 
+
+<img width="300" height="300" alt="pic" src="https://github.com/user-attachments/assets/050f2949-8e79-4700-b6f1-7972a2127382"/>
 
 ## How to build and run
 
@@ -31,11 +32,12 @@ A terminal-based daily routine and event planner built with Bubbletea.
 
 ## Features
 
-- Routine builder
+- Time based routine builder
 - Event scheduler
-- Countdown timer
+- Countdown timer 
 - Quotes
-- Markdown-based storage
+- Markdown-based storage of routines/events/logs/summaries
+
 ---
 ## How Routine Structure Works
 
@@ -89,3 +91,13 @@ Each event is listed with an incrementing number, a name, time, repeat pattern (
 
 ---
 
+todos:
+- [ ] delete cmds
+    - [ ] events
+    - [ ] routines
+- [ ] list/read routines logs
+- [ ] edit cmds 
+    - [ ] events
+    - [ ] routines
+    - [ ] quotes     
+- [ ] stats
