@@ -41,7 +41,7 @@ A terminal-based daily routine and event planner built with Bubbletea.
 ---
 ## How Routine Structure Works
 
- Each routine consists of several steps (habits or activities), each with a time estimate and optional checklist items. The file is written in markdown, and the format is critical for the app to read and display it correctly.
+Each routine consists of several steps (habits or activities), each with a time estimate and optional checklist items. The file is written in markdown, and the format is critical for the app to read and display it correctly.
 
 ### Structure Overview
 
@@ -92,12 +92,16 @@ Each event is listed with an incrementing number, a name, time, repeat pattern (
 ---
 
 todos:
-- [ ] delete cmds
+- [ ] fix routines list reloading to reflect newly created files
+- [ ] add delete cmds
     - [ ] events
     - [ ] routines
-- [ ] list/read routines logs
 - [ ] edit cmds 
     - [ ] events
     - [ ] routines
-    - [ ] quotes     
+    - [ ] quotes
+- [ ] list/read routines logs   
 - [ ] stats
+---
+- [ ] create bigger sessions with cuncantenated routines
+- [ ] keep timer alive after leaving the window
