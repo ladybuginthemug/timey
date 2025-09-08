@@ -1,4 +1,4 @@
-module dayplanner
+module timey
 
 go 1.23.0
 
